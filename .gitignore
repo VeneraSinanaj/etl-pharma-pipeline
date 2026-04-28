@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+*.db
+data/raw/
+data/transformed/
+data/medicaments_export.csv
+logs/
+*.log
+.DS_Store
+Thumbs.db
