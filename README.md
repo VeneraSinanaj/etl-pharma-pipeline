@@ -186,6 +186,9 @@ Le fichier `data/dashboard power BI/dashboard.pbix` contient 4 visuels :
 | Donut | Repartition par type de produit (Prescription / OTC / Vaccin...) |
 | Courbe | Evolution des mises sur le marche (1940-2026) |
 
+**Aperçu du dashboard**
+<img width="706" height="403" alt="image" src="https://github.com/user-attachments/assets/a839afcf-e6ed-4cab-a535-b77025eb43fa" />
+
 ---
 
 ## Schema de la base
